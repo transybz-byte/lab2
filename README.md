@@ -1,16 +1,8 @@
 # calculator_app
 
-A new Flutter project.
+Chapter 2 - Simple Calculator
+Đối với bài 2 máy tính bỏ túi thì về đề cô không yêu cầu rõ ràng phải chia bao nhiêu file nên ngoài main.dart em còn tạo thêm 2 file là 
+-   calculator_screen.dart: Chứa toàn bộ logic (biến trạng thái, hàm xử lý) và layout chính
+-  calculator_button.dart: Chứa widget tái sử dụng (CalculatorButton) để định nghĩa kiểu dáng của các nút bấm.
+Phần giao diện màu sắc cũng tương tự cô có ô cuối cùng góc bên trái thay vì +/- thì em dùng CE tại trong word yêu cầu để vậy ạ.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
