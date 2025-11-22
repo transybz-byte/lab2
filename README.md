@@ -6,3 +6,4 @@ Chapter 2 - Simple Calculator
 -  calculator_button.dart: Chứa widget tái sử dụng (CalculatorButton) để định nghĩa kiểu dáng của các nút bấm.
 Phần giao diện màu sắc cũng tương tự cô có ô cuối cùng góc bên trái thay vì +/- thì em dùng CE tại trong word yêu cầu để vậy ạ.
 
+<img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/51df5622-2fce-49b5-890b-e58902a5e359" />
